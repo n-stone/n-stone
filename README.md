@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/-PYTHON-red
+<img scr = "https://img.shields.io/badge/-PYTHON-red?style=flat-square&logo=#3776AB&logoColor=white&link=">
