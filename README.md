@@ -11,6 +11,5 @@
     <img src="https://img.shields.io/badge/Pytorch-red?style=flat&logo=Pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tensorflow-red?style=flat&logo=Tensorflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/Streamlit-red?style=flat&logo=Streamlit&logoColor=white"/>
-    <img src="https://img.shields.io/badge/FastAPI-white?style=flat&logo=Fastapi&logoColor=black"/>
+    <img src="https://img.shields.io/badge/FastAPI-white?style=flat&logo=Fastapi&logoColor=black"/>  
 </div>
-    
